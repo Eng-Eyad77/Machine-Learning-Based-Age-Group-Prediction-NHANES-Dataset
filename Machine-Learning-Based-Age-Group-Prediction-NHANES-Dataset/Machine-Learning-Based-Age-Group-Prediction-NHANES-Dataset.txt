@@ -1,0 +1,16 @@
+About Dataset
+This dataset is a cleaned version of the original National Health and Nutrition Health Survey 2013-2014 (NHANES) Age Prediction Dataset available at UCI Library. It was cleaned using various techniques such as z-score normalization, feature selection, and Oversampling. It contains 6 columns:
+
+PAQ605: If the respondent engages in moderate or vigorous-intensity sports, fitness, or recreational activities in the typical week
+BMXBMI: Respondent's Body Mass Index
+LBXGLU: Respondent's Blood Glucose after fasting
+LBXGLT: Respondent's Oral
+LBXIN: Respondent's Blood Insulin Levels
+Age Group (Target): Is the respondent a Senior or not?
+The Target Class contains two values - 0 or 1 - where 0 refers to Adult and 1 refers to Senior.
+
+
+
+
+The Link of the Dataset:
+https://www.kaggle.com/datasets/prishasawhney/age-prediction-dataset-binary-classification
